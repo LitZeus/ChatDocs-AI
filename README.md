@@ -15,9 +15,13 @@ This application makes use of following LLMs:
 - Python 3.9 or later (earlier versions are not compatible).
 
 # Installation
+
+## Fork the repository before proceeding the further steps!
+
 1. Clone the repository
 ```bash
-git clone <repo-url>
+git clone https://github.com/<your-username>/ChatDocs-AI
+cd ChatDocs-AI
 ```
 2. Create and activate a virtual environment:
 ```bash
@@ -35,3 +39,4 @@ streamlit run main.py
 ```
 
 # Snapshots
+![Screenshot 2024-10-10 152144](https://github.com/user-attachments/assets/d4711798-e39c-4915-8310-90f75de6f3ef)
